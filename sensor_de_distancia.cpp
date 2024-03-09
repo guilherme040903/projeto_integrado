@@ -1,3 +1,5 @@
+// Link do projeto no tinkercad https://www.tinkercad.com/things/2zQaOQsdDPz-sensordedistancia
+
 int echo_pin = 6,
 	trig_pin = 7,
 	distancia = 0,
